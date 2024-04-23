@@ -15,5 +15,7 @@ Food, Visitplace, etc in Yokohama (Kanagawa prefecture), Tokyo, Osaka, Kyoto, Sa
 - Miso soup
 ### Other
 - Syojin meal
+- Salad
+- Italian vegan pizza
 
 ## Place to Visit
