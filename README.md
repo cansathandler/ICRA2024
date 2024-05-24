@@ -19,3 +19,7 @@ Food, Visitplace, etc in Yokohama (Kanagawa prefecture), Tokyo, Osaka, Kyoto, Sa
 - Italian vegan pizza
 
 ## Place to Visit
+Kyoto
+https://maps.app.goo.gl/S42i4YC5jNrTW2Sq8
+
+Tokyo
