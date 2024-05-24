@@ -1,6 +1,5 @@
 # ICRA2024
-Food, Visitplace, etc in Yokohama (Kanagawa prefecture), Tokyo, Osaka, Kyoto, Sapporo
-
+Food, Visitplace, etc in Yokohama (Kanagawa prefecture), Tokyo,  Kyoto
 ## Food for Vegan
 ### Noodle
 #### Udon
@@ -23,3 +22,4 @@ Kyoto
 https://maps.app.goo.gl/S42i4YC5jNrTW2Sq8
 
 Tokyo
+https://maps.app.goo.gl/6MUpDwjJZTX3GFj19
